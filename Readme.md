@@ -2,8 +2,6 @@
 
 Automatically organize files in a folder into subfolders based on their type.
 
-My profiles: [LinkedIn](https://www.linkedin.com/in/hnrsous/) - [GitHub](https://github.com/hnrsous)
-
 1. Enclose the path of the folder you want to organize within the quotation marks "" in:
 
 source_folder = r"PathHere"
